@@ -16,5 +16,11 @@ namespace CursoMVC.Models{
             get;
             set;
         }
+
+        public List<Produto> Produtos
+        {
+            get;
+            set;
+        }
     }
 }
